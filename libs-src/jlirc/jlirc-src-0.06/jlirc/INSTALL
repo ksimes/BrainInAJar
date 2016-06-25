@@ -1,0 +1,55 @@
+Installation instructions for jlirc
+
+Requirements
+
+Linux:
+
+	- a JDK (>= 1.2.2) (try http://java.sun.com/j2se/1.3/download-linux.html for Sun's Linux JDK)
+	  is needed to compile and run jlirc (well, you probably wouldn't have downloaded
+	  this stuff if you didn't want to compile and run java programs).
+
+	- LIRC (http://www.lirc.org/) should be installed and running for you to be able
+	  to use jlirc (there should be no problem compiling without it though)
+
+Windows:
+	- a JDK (>= 1.2.2)
+
+	- WinLIRC (http://home.jtan.com/~jim/winlirc/) should be installed and running for you to be able
+	  to use jlirc (there should be no problem compiling without it though)
+
+
+
+
+Building and installing
+
+On Linux:
+
+	1) Edit Makefile and make sure that IDIRS points to your JNI header files
+		(normally you should just have to change JDK_HOME, right at the top).
+
+	2) make (will compile the java classes and the native code)
+
+	make test (will run org.lirc.test.Irw which prints received signal
+				to stdout, the lircd daemon must be running for this to work)
+
+	make doc (will generate the API documentation).
+
+	The java classes and the native code will be in the 'build'
+	directory. You can copy the the 'org' directory to somewhere that's
+	in your classpath, or add the build directory to your classpath.
+
+
+On Windows:
+
+	There is no Makefile for Windows, but you will only need the java
+	classes if you are using windows, no native code.
+	You need to compile the the java sources in src, something like:
+
+	javac -d . src/org/lirc/*.java src/org/lirc/test/*.java src/org/lirc/util/*.java src/org/lirc/ui/*.java
+
+	(haven't tried that, might need to change slashes to backslashes)
+
+	The API documentation can be generated in a similar way, I assume that
+	if you need the documentation, you know how to use javadoc. Should be something like this:
+
+	javadoc -version -author -use -overview src/org/lirc/overview.html -d apidoc -sourcepath src org.lirc org.lirc.test org.lirc.util org.lirc.ui

@@ -1,0 +1,203 @@
+%%%May the Elder God   Cthulhu not rain    madness upon you    and your loved ones.
+%%%Life is wonderful.  Without it we'd all be dead.
+%%%Make it idiot proof and someone will    make a better       idiot.
+%%%Always remember     you're unique, just like everyone else
+%%%Okay, who put a     "stop payment" on myreality check?
+%%%Consciousness: that annoying time       between naps.
+%%%Programming is an   art form that fightsback.
+%%%To define recursion,we must first definerecursion.
+%%%The E-mail of the   species is more     deadly than the     mail.
+%%%Fax is stranger thanfiction.
+%%%Every absurdity has a champion to       defend it.
+%%%What boots up must  come down.
+%%%My other jar is a   Mi-Go Brain cylinder
+%%%Programs are mostly bugs wrapped in     some user interface
+%%%I used to shave withOccam's razor, but  growing a manly     beard was simpler.
+%%%A life? Where can I download that?
+%%%A mind is a terriblething to...OOOOH,   DOOM 2 is here!
+%%%To error is human,  to blame it on      someone else is     more human.
+%%%When in darkness or in doubt, Run in    circles, scream and shout.
+%%%I'm so hip I have   difficulty seeing   over my pelvis.
+%%%A closed mouth      gathers no foot.
+%%%I work better if    you plug me in.
+%%%Don't ask me - I    just work here
+%%%Don't ask me--I'm   making this up as   I go along!
+%%%Never put off until tomorrow what you   can avoid all       together.
+%%%All of life's       answers are on the  wrong side of       progress.
+%%%I think; therefore  I am confused.
+%%%Advice is what we   ask for when we     already know.
+%%%Anything is possibleif you don't know   what you're talking about.
+%%%Any system which    depends on human    reliability is      unreliable.
+%%%Anyone who willinglyruns Windows        deserves what he    gets
+%%%Everything takes    longer than you     think.
+%%%Always make stupid  moves. It confuses  your opponent.
+%%%Always remember     that you're unique, just like everyone  else.
+%%%I don't know what   your problem is, butI'll bet it's hard  to pronounce.
+%%%If anything can go  wrong, it will.
+%%%I see you've set    aside this special  time to humiliate   yourself in public.
+%%%I'm out of my mind, but feel free to    leave a message.
+%%%I don't work here.  I'm a consultant.
+%%%It sounds like      English, but I can'tunderstand a word   you're saying.
+%%%Ahhh...I see the    screw-up fairy has  visited us again.
+%%%I've done this      before and never hadany trouble...
+%%%I like you. You     remind me of when I was young and       stupid.
+%%%You are validating  my inherent mistrustof strangers.
+%%%I will always       cherish the initial misconceptions I    had about you.
+%%%The fact that no oneunderstands you     doesn't mean you're an artist.
+%%%Any connection      between your realityand mine is purely  coincidental.
+%%%Do I look like a    people person?
+%%%I started out with  nothing and still   have most of it     left!
+%%%I will not suffer   fools gladly, but I will gladly make    fools suffer.
+%%%If at first you     succeed, try to hideyour astonishment.
+%%%I think; therefore  I am probably in a  jar. I think...
+%%%Sarcasm is just one more service I offer
+%%%Errors have been    made. Others will beblamed.
+%%%Chaos, panic, &     disorder - my work  here is done.
+%%%File that under     "Never".
+%%%No one is listening until you make a    mistake.
+%%%Don't be            irreplaceable; if   you can't be        replaced, you can't
+%%%If you always tell  the truth, you don'thave to remember    anything.
+%%%Some days you are   the bug, some days  you are the         windscreen.
+%%%I see only darkness in the crystal ball.
+%%%The consumption of  alcohol may cause   you to thay shings  like thish.
+%%%Madness takes its   toll. Please have   exact change.
+%%%Some mornings, it's just not worth      chewing through the leather straps.
+%%%Writing about music is like dancing     about architecture.
+%%%Drawing on my fine  command of language,I said nothing.
+%%%Always try to do    things in           chronological order;it's less confusing.
+%%%Don't worry about   temptation--as you  grow older, it      starts avoiding you.
+%%%If the cheque is    truly in the mail,  it is surely made   out to someone else.
+%%%The only difference between me and a    madman is that I am NOT MAD!
+%%%Early to bed, early to rise makes peoplesuspicious.
+%%%Where do they get   the seeds to plant  seedless            watermelons?
+%%%I wish you humans   would leave me alone
+%%%Artificial          intelligence is no  match for natural   stupidity.
+%%%I'm reading a book  about anti-gravity. It's impossible to  put down.
+%%%I don't even know   what street Canada  is on.
+%%%Why is a bra        singular and pantiesplural?
+%%%Atheism is a        non-prophet         organization.
+%%%I put the "fun" in  dysfunctional.
+%%%I was going to give him a nasty look,   but he already had  one.
+%%%You're not fat,     you're just...      easier to see?
+%%%Anyone who has nevermade a mistake has  never tried         anything new.
+%%%It's just a bad day,not a bad life...   I hope.
+%%%I've only been wrongonce, and that's    when I thought I    was wrong.
+%%%The road to success is always under     construction.
+%%%If at first you     don't succeed, blamesomeone else and    seek counselling.
+%%%I really lack the   words to compliment myself today.
+%%%Whatever you do     always give 100%.   Unless you are      donating blood.
+%%%If you're going     through Hell, keep  going.
+%%%Knowledge is power, and power corrupts. So study hard and   be evil.
+%%%I wish I had time toexplain dimensional transcendentalism.
+%%%Everything always   ends well. If not - it's probably not   the end.
+%%%The only knowledge  that can hurt you isthe knowledge you   don't have.
+%%%Everything is       slightly confused.
+%%%It's not how good   your work is, it's  how well you        explain it.
+%%%One day you're the  best thing since    sliced bread. The   next, you're toast.
+%%%Some people are so  poor, all they have is money.
+%%%I'm not crazy; I've just been in a bad  mood for the last   ten years.
+%%%Nothing ruins a     Friday more than an understanding that  today is Tuesday.
+%%%How did the Universemanage to go bang insuch an unreasonableway?
+%%%Whenever I find the key to success,     someone changes the lock.
+%%%If at first you     don't succeed: try  management.
+%%%I disapprove of     every conspiracy of which I am not a    part.
+%%%I haven't lost my   mind. I've got it   backed up on tape   somewhere.
+%%%To the question     'What are you doing here?' 72% answered negative.
+%%%My five year plan?  I don't even have a five minute plan.
+%%%If you must choose  between two evils,  pick the one you've never tried before.
+%%%Do it tomorrow. You have made enough    mistakes for today.
+%%%I don't suffer from insanity. I enjoy   every minute of it.
+%%%Don't make me use   UPPERCASE.
+%%%A day without       sunshine is like,   well, night.
+%%%With a calendar,    your days are       numbered.
+%%%I ran three miles   today. Finally I    said, "Lady take    back your purse."
+%%%Somebody stole my   mood ring and I'm   not quite sure how  I feel about that..
+%%%To err is human, to blame it on somebodyelse shows          management promise.
+%%%Few things are      harder to put up    with than a good    example against you.
+%%%The difference      between fiction and reality? Fiction    has to make sense.
+%%%Does this rag smell like chloroform to  you?
+%%%FRIDAY is my second favourite F word.
+%%%"You can't sleep    either?" Says a     voice from under    your bed.
+%%%It's not that I'm   afraid to die, I    just don't want to  be there if it happens
+%%%Eat right. Stay fit.Die anyway.
+%%%1.79 x 10^12        furlongs per fortnight -- it's not just a idea, it's the law
+%%%The last thing I    want to do is insultyou. But it IS on   the list.
+%%%Letting the cat out of the bag is a lot easier than putting it back in again.
+%%%Support bacteria -  they're the only    culture some people have.
+%%%Red meat is not bad for you. Fuzzy greenmeat is bad for you
+%%%Isn't it scary that doctors call what   they do "practice"?
+%%%A day for firm      decisions! Or is it?
+%%%Am I ambivalent?    Well, yes and no.
+%%%Help stamp out,     eliminate, banish,  abolish and get rid of redundancy!
+%%%A dog has an owner. A cat has staff.
+%%%If you have to thinktwice about it,     you're wrong
+%%%If I want your      opinion, I'll ask   you to fill out the necessary forms.
+%%%Living on Earth is  expensive, but it   does include a free trip around the sun.
+%%%Despite the cost of living, have you    noticed how popular it remains?
+%%%All power corrupts. Absolute power is   pretty neat, though
+%%%Seen it all, done   it all, can't       remember most of it
+%%%Under my gruff      exterior lies an    even gruffer        interior.
+%%%Fine day to throw a party.  Throw him asfar as you can.
+%%%Failure is not an   option. It's bundledwith your software.
+%%%I drive way too fastto worry about      cholesterol.
+%%%If at first you     don't succeed,      redefine success.
+%%%Don't you feel more like you do now thanyou did when you    came in?
+%%%If at first you     don't succeed,      destroy all         evidence that you tried.
+%%%My conscience is    clean - I have neverused it.
+%%%If I agreed with    you we'd both be    wrong.
+%%%When in doubt,      mumble.
+%%%Change is           inevitable, except  from a vending      machine.
+%%%Haikus are easy. Butsometimes they don'tmake sense.         Refrigerator.
+%%%Home is the place   where, when you haveto go there, they   have to take you in.
+%%%If you're not part  of the solution,    you're part of the  precipitate.
+%%%Keep the dream      alive: Hit the      snooze button.
+%%%When you choke a    smurf, what color   does it turn?
+%%%Archaeologist:      someone whose careerlies in ruins.
+%%%What if there were  no hypothetical     questions?
+%%%One tequila,        two tequila,        three tequila,      floor.
+%%%Don't you have      anything better to  do with your time   but look at my jar?
+%%%I always think of   the best comebacks  when I'm almost doneburying the body.
+%%%I have an awful lot of shampoo and      conditioner for a   brain in a jar.
+%%%When cryptography isoutlawed, bayl bhgy87fd jvyy u3ir cevin2plorpaness$%"^*.
+%%%History has a habit of changing the     people who think    they are changing it
+%%%Harry Potter is the worst thing to      happen to the printed word since the Web
+%%%[6523481.895302] Outof memory: Kill     process 9452 (java) or sacrifice child.
+%%%A fool and his moneystabilize the       economy.
+%%%He who laughs last  is a little slow on the uptake.
+%%%A journey of a      thousand miles      begins with a cash  advance from Mum.
+%%%Give me a rock,     paper and scissors  and I will move the world.
+%%%Let him who takes   the Plunge remember to return it by     Tuesday.
+%%%Always keep a recordof data.  It        indicates you've    been working.
+%%%An ounce of         application is wortha ton of abstraction
+%%%Any country with    "democratic" in its title isn't.
+%%%Aren't you glad his name wasn't         Alexander Graham    Klaxon?
+%%%It is better to haveloved and lost than just to have got    lost.
+%%%Avoid reality at allcosts.
+%%%Ban the bomb.  Save the world for       conventional warfare
+%%%By failing to       prepare, you are    preparing to fail.
+%%%Caution -- be sure  brain is engaged    before putting mouthin gear.
+%%%Cocaine is nature's way of saying you   make too much money.
+%%%Cthulhu Saves!  ... in case He's hungry later.
+%%%Death is nature's   way of telling you  to slow down.
+%%%Do not take life tooseriously; you will never get out if it alive.
+%%%Don't believe       everything you hear or anything you say.
+%%%It's deja vu all    over again.
+%%%Don't eat yellow    snow!
+%%%Don't force it, use a bigger hammer.
+%%%It's not my fault --it's a mechanical   problem!
+%%%Don't look back --  something may be    gaining on you.
+%%%English is a stretchlanguage; one size  fits all.
+%%%Even the simplest   solution is bound tohave something wrongwith it.
+%%%Every solution      breeds new problems.
+%%%Experience varies   directly with the   equipment ruined.
+%%%It's the thought,   if any, that counts!
+%%%Government expands  to absorb all       available revenue   and then some.
+%%%Jam tomorrow and    jam yesterday --    but never jam today.
+%%%If the shoe fits,   buy the other one,  too.
+%%%If you have to lie  to someone, it's    their fault.
+%%%If you think before you speak the other guy gets his joke infirst.
+%%%If you think it's   hard going to the   moon, you should    try staying home.
+%%%Just because you're paranoid doesn't    mean they're not outto get you.
+%%%In communism Man    exploits Man.  In   capitalism it's the other way around.
+%%%Life is what happensto you while you're busy making other   plans.
+%%%
