@@ -1,7 +1,9 @@
 Brain in a Jar
+==============
       or
+	  
 jar of advice
-(ampulla cerebrum)
-hydria cerebrum
 
-ampulla cerebrum
+(ampulla cerebrum)
+
+hydria cerebrum?
