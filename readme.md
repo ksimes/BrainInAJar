@@ -1,8 +1,9 @@
 Brain in a Jar
 ==============
-      or
+
+or
 	  
-jar of advice
+The jar of advice
 
 (ampulla cerebrum)
 
